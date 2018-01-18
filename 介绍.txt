@@ -1,0 +1,7 @@
+home/index/index  是首页 里面有分页
+home/login/index  是登陆（写了登陆的代码 sesssion cookie 等判断 还有验证码等）
+home/login/zhuce  是注册
+home/login/login  里面有文件上传
+用的数据库是student
+表 wx_user
+wx_users是分页是用的表
